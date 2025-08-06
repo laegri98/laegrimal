@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){$('#sidebar .yellow-sticker-middle ul .sub-menu:has(a[aria-current])').css('display','block');});

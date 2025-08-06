@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://laegrimal.pages.dev/sitemap.xml

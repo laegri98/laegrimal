@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){$('.scroll-to-top').hide();$(window).scroll(function(){if($(this).scrollTop()<200){$('.scroll-to-top').fadeOut();}else{$('.scroll-to-top').fadeIn();}});$('.scroll-to-top').on('click',function(){$('html, body').animate({scrollTop:0},'fast');return false;});});

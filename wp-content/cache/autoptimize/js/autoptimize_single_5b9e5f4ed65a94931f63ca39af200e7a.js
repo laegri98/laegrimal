@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){$('.menu-icon').click(function(){$('.primary-mobile-nav').slideToggle();});});
