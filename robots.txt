@@ -1,6 +1,4 @@
 User-agent: *
-Disallow:
-
 Disallow: /*.mp3$
 
 Sitemap: https://laegrimal.pages.dev/sitemap.xml
